@@ -1,0 +1,10 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Tom/Desktop/cpp_tasks/Testbench/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/msys64/usr/bin/make.exe" "cmTC_46a05/fast"
+/usr/bin/make -f CMakeFiles\cmTC_46a05.dir\build.make CMakeFiles/cmTC_46a05.dir/build
+' m T C _ 4 6 a 0 5 . d i r '   i s   n o t   r e c o g n i z e d   a s   a n   i n t e r n a l   o r   e x t e r n a l   c o m m a n d ,  
+ o p e r a b l e   p r o g r a m   o r   b a t c h   f i l e .  
+ make: *** [Makefile:120: cmTC_46a05/fast] Error 1
+
+
